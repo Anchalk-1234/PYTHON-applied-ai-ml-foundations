@@ -4,7 +4,7 @@ def add(a, b):
 def is_even(number):
     return number % 2 == 0
 
-def calculate_average(numbers):git add .
+def calculate_average(numbers):
 
     if not numbers:
         return None
